@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.14.16",
+    "enzyme": "^3.11.0"
+  },
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  }
+}
